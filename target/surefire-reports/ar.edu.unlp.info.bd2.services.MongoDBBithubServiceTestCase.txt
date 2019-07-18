@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: ar.edu.unlp.info.bd2.services.MongoDBBithubServiceTestCase
 -------------------------------------------------------------------------------
-Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 23.039 sec - in ar.edu.unlp.info.bd2.services.MongoDBBithubServiceTestCase
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 58.685 sec - in ar.edu.unlp.info.bd2.services.MongoDBBithubServiceTestCase
