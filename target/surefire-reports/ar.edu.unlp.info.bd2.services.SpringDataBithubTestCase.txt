@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: ar.edu.unlp.info.bd2.services.SpringDataBithubTestCase
 -------------------------------------------------------------------------------
-Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 56.041 sec - in ar.edu.unlp.info.bd2.services.SpringDataBithubTestCase
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 32.898 sec - in ar.edu.unlp.info.bd2.services.SpringDataBithubTestCase
